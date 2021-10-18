@@ -1,2 +1,3 @@
 # gig
-Data Info
+weekly schedule for Dolly
+Dolly is a stock trader & goes to the gym
